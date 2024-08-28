@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>News App</title>
+    <link href="https://fonts.googleapis.com/css2?family=Raleway" rel="stylesheet">
+    <link rel="stylesheet" href="../static/css/styles.css">
+</head>
+<body>
+<div class="wrapper">
+    <div class="top">
+        <div class="title"><h1><strong>{{ post.id+1 }}. {{ post.title }} </strong></h1></div>
+           </div>
+        <div class="content">
+            <div class="card">
+                <img class="post-image" src="{{ post.image }}">
+                <p>Author: <em>{{ post.author }}</em></p>
+                <p>{{ post.body }}</p>
+                <p>To read the complete news <em><a href="{{ post.url }}" target="_blank">Click Here</a></em></p>
+            </div>
+
+    </div>
+</div>
+</body>
+<footer>
+    <p>Made with 🤍 By Raman</p>
+</footer>
+</html>

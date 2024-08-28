@@ -1,0 +1,212 @@
+BookID,BookName,Author,Availability
+1001,Fundamentals of Wavelets,Goswami Jaideva,1
+1002,Data Smart,Foreman John,1
+1003,God Created the Integers,Hawking Stephen,1
+1004,Superfreakonomics,Dubner Stephen,1
+1005,Orientalism,Said Edward,1
+1006,"Nature of Statistical Learning Theory, The",Vapnik Vladimir,1
+1007,Integration of the Indian States,Menon V P,1
+1008,"Drunkard's Walk, The",Mlodinow Leonard,1
+1009,Image Processing & Mathematical Morphology,Shih Frank,1
+1010,How to Think Like Sherlock Holmes,Konnikova Maria,1
+1011,Data Scientists at Work,Sebastian Gutierrez,1
+1012,Slaughterhouse Five,Vonnegut Kurt,1
+1013,Birth of a Theorem,Villani Cedric,1
+1014,Structure & Interpretation of Computer Programs,Sussman Gerald,1
+1015,"Age of Wrath, The",Eraly Abraham,1
+1016,"Trial, The",Kafka Frank,1
+1017,Statistical Decision Theory',Pratt John,1
+1018,Data Mining Handbook,Nisbet Robert,1
+1019,"New Machiavelli, The",Wells H. G.,1
+1020,Physics & Philosophy,Heisenberg Werner,1
+1021,Making Software,Oram Andy,1
+1022,"Analysis, Vol I",Tao Terence,1
+1023,Machine Learning for Hackers,Conway Drew,1
+1024,"Signal and the Noise, The",Silver Nate,1
+1025,Python for Data Analysis,McKinney Wes,1
+1026,Introduction to Algorithms,Cormen Thomas,1
+1027,"Beautiful and the Damned, The",Deb Siddhartha,1
+1028,"Outsider, The",Camus Albert,1
+1029,"Complete Sherlock Holmes, The - Vol I",Doyle Arthur Conan,1
+1030,"Complete Sherlock Holmes, The - Vol II",Doyle Arthur Conan,1
+1031,"Wealth of Nations, The",Smith Adam,1
+1032,"Pillars of the Earth, The",Follett Ken,1
+1033,Mein Kampf,Hitler Adolf,1
+1034,"Tao of Physics, The",Capra Fritjof,1
+1035,Surely You're Joking Mr Feynman,Feynman Richard,1
+1036,"Farewell to Arms, A",Hemingway Ernest,1
+1037,"Veteran, The",Forsyth Frederick,1
+1038,False Impressions,Archer Jeffery,1
+1039,"Last Lecture, The",Pausch Randy,1
+1040,Return of the Primitive,Rand Ayn,1
+1041,Jurassic Park,Crichton Michael,1
+1042,"Russian Journal, A",Steinbeck John,1
+1043,Tales of Mystery and Imagination,Poe Edgar Allen,1
+1044,Freakonomics,Dubner Stephen,1
+1045,"Hidden Connections, The",Capra Fritjof,1
+1046,"Story of Philosophy, The",Durant Will,1
+1047,Asami Asami,Deshpande P L,1
+1048,Journal of a Novel,Steinbeck John,1
+1049,Once There Was a War,Steinbeck John,1
+1050,"Moon is Down, The",Steinbeck John,1
+1051,"Brethren, The",Grisham John,1
+1052,In a Free State,Naipaul V. S.,1
+1053,Catch 22,Heller Joseph,1
+1054,"Complete Mastermind, The",BBC,1
+1055,Dylan on Dylan,Dylan Bob,1
+1056,Soft Computing & Intelligent Systems,Gupta Madan,1
+1057,Textbook of Economic Theory,Stonier Alfred,1
+1058,Econometric Analysis,Greene W. H.,1
+1059,Learning OpenCV,Bradsky Gary,1
+1060,Data Structures Using C & C++,Tanenbaum Andrew,1
+1061,"Computer Vision, A Modern Approach",Forsyth David,1
+1062,Principles of Communication Systems,Taub Schilling,1
+1063,Let Us C,Kanetkar Yashwant,1
+1064,"Amulet of Samarkand, The",Stroud Jonathan,1
+1065,Crime and Punishment,Dostoevsky Fyodor,1
+1066,Angels & Demons,Brown Dan,1
+1067,"Argumentative Indian, The",Sen Amartya,1
+1068,Sea of Poppies,Ghosh Amitav,1
+1069,"Idea of Justice, The",Sen Amartya,1
+1070,"Raisin in the Sun, A",Hansberry Lorraine,1
+1071,All the President's Men,Woodward Bob,1
+1072,"Prisoner of Birth, A",Archer Jeffery,1
+1073,Scoop!,Nayar Kuldip,1
+1074,Ahe Manohar Tari,Deshpande Sunita,1
+1075,"Last Mughal, The",Dalrymple William,1
+1076,"Social Choice & Welfare, Vol 39 No. 1",Various,1
+1077,Radiowaril Bhashane & Shrutika,Deshpande P L,1
+1078,Gun Gayin Awadi,Deshpande P L,1
+1079,Aghal Paghal,Deshpande P L,1
+1080,Maqta-e-Ghalib,Garg Sanjay,1
+1081,Beyond Degrees,,1
+1082,Manasa,Kale V P,1
+1083,India from Midnight to Milennium,Tharoor Shashi,1
+1084,"World's Greatest Trials, The",,1
+1085,"Great Indian Novel, The",Tharoor Shashi,1
+1086,O Jerusalem!,Lapierre Dominique,1
+1087,"City of Joy, The",Lapierre Dominique,1
+1088,Freedom at Midnight,Lapierre Dominique,1
+1089,"Winter of Our Discontent, The",Steinbeck John,1
+1090,On Education,Russell Bertrand,1
+1091,Free Will,Harris Sam,1
+1092,Bookless in Baghdad,Tharoor Shashi,1
+1093,"Case of the Lame Canary, The",Gardner Earle Stanley,1
+1094,"Theory of Everything, The",Hawking Stephen,1
+1095,New Markets & Other Essays,Drucker Peter,1
+1096,Electric Universe,Bodanis David,1
+1097,"Hunchback of Notre Dame, The",Hugo Victor,1
+1098,Burning Bright,Steinbeck John,1
+1099,"Age of Discontuinity, The",Drucker Peter,1
+1100,Doctor in the Nude,Gordon Richard,1
+1101,Down and Out in Paris & London,Orwell George,1
+1102,Identity & Violence,Sen Amartya,1
+1103,Beyond the Three Seas,Dalrymple William,1
+1104,"World's Greatest Short Stories, The",,1
+1105,Talking Straight,Iacoca Lee,1
+1106,"Maugham's Collected Short Stories, Vol 3",Maugham William S,1
+1107,"Phantom of Manhattan, The",Forsyth Frederick,1
+1108,Ashenden of The British Agent,Maugham William S,1
+1109,Zen & The Art of Motorcycle Maintenance,Pirsig Robert,1
+1110,"Great War for Civilization, The",Fisk Robert,1
+1111,We the Living,Rand Ayn,1
+1112,"Artist and the Mathematician, The",Aczel Amir,1
+1113,History of Western Philosophy,Russell Bertrand,1
+1114,Selected Short Stories,,1
+1115,Rationality & Freedom,Sen Amartya,1
+1116,Clash of Civilizations and Remaking of the World Order,Huntington Samuel,1
+1117,Uncommon Wisdom,Capra Fritjof,1
+1118,One,Bach Richard,1
+1119,Karl Marx Biography,,1
+1120,To Sir With Love,Braithwaite,1
+1121,Half A Life,Naipaul V S,1
+1122,"Discovery of India, The",Nehru Jawaharlal,1
+1123,Apulki,Deshpande P L,1
+1124,Unpopular Essays,Russell Bertrand,1
+1125,"Deceiver, The",Forsyth Frederick,1
+1126,Veil: Secret Wars of the CIA,Woodward Bob,1
+1127,Char Shabda,Deshpande P L,1
+1128,Rosy is My Relative,Durrell Gerald,1
+1129,"Moon and Sixpence, The",Maugham William S,1
+1130,Political Philosophers,,1
+1131,"Short History of the World, A",Wells H G,1
+1132,"Trembling of a Leaf, The",Maugham William S,1
+1133,Doctor on the Brain,Gordon Richard,1
+1134,Simpsons & Their Mathematical Secrets,Singh Simon,1
+1135,Pattern Classification,Duda Hart,1
+1136,From Beirut to Jerusalem,Friedman Thomas,1
+1137,"Code Book, The",Singh Simon,1
+1138,"Age of the Warrior, The",Fisk Robert,1
+1139,Final Crisis,,1
+1140,"Killing Joke, The",,1
+1141,Flashpoint,,1
+1142,Batman Earth One,,1
+1143,Crisis on Infinite Earths,,1
+1144,"Numbers Behind Numb3rs, The",Devlin Keith,1
+1145,Superman Earth One - 1,,1
+1146,Superman Earth One - 2,,1
+1147,Justice League: Throne of Atlantis,,1
+1148,Justice League: The Villain's Journey,,1
+1149,"Death of Superman, The",,1
+1150,History of the DC Universe,,1
+1151,Batman: The Long Halloween,,1
+1152,"Life in Letters, A",Steinbeck John,1
+1153,"Information, The",Gleick James,1
+1154,"Journal of Economics, vol 106 No 3",,1
+1155,Elements of Information Theory,Thomas Joy,1
+1156,Power Electronics - Rashid,Rashid Muhammad,1
+1157,Power Electronics - Mohan,Mohan Ned,1
+1158,Neural Networks,Haykin Simon,1
+1159,"Grapes of Wrath, The",Steinbeck John,1
+1160,Vyakti ani Valli,Deshpande P L,1
+1161,Statistical Learning Theory,Vapnik Vladimir,1
+1162,Empire of the Mughal - The Tainted Throne,Rutherford Alex,1
+1163,Empire of the Mughal - Brothers at War,Rutherford Alex,1
+1164,Empire of the Mughal - Ruler of the World,Rutherford Alex,1
+1165,Empire of the Mughal - The Serpent's Tooth,Rutherford Alex,1
+1166,Empire of the Mughal - Raiders from the North,Rutherford Alex,1
+1167,Mossad,Baz-Zohar Michael,1
+1168,Jim Corbett Omnibus,Corbett Jim,1
+1169,20000 Leagues Under the Sea,Verne Jules,1
+1170,Batatyachi Chal,Deshpande P L,1
+1171,Hafasavnuk,Deshpande P L,1
+1172,Urlasurla,Deshpande P L,1
+1173,Pointers in C,Kanetkar Yashwant,1
+1174,"Cathedral and the Bazaar, The",Raymond Eric,1
+1175,Design with OpAmps,Franco Sergio,1
+1176,Think Complexity,Downey Allen,1
+1177,"Devil's Advocate, The",West Morris,1
+1178,Ayn Rand Answers,Rand Ayn,1
+1179,Philosophy: Who Needs It,Rand Ayn,1
+1180,"World's Great Thinkers, The",,1
+1181,Data Analysis with Open Source Tools,Janert Phillip,1
+1182,Broca's Brain,Sagan Carl,1
+1183,Men of Mathematics,Bell E T,1
+1184,Oxford book of Modern Science Writing,Dawkins Richard,1
+1185,"Justice, Judiciary and Democracy",Ranjan Sudhanshu,1
+1186,"Arthashastra, The",Kautiyla,1
+1187,We the People,Palkhivala,1
+1188,We the Nation,Palkhivala,1
+1189,"Courtroom Genius, The",Sorabjee,1
+1190,Dongri to Dubai,Zaidi Hussain,1
+1191,"History of England, Foundation",Ackroyd Peter,1
+1192,City of Djinns,Dalrymple William,1
+1193,India's Legal System,Nariman,1
+1194,More Tears to Cry,Sassoon Jean,1
+1195,"Ropemaker, The",Dickinson Peter,1
+1196,Angels & Demons,Brown Dan,1
+1197,"Judge, The",,1
+1198,"Attorney, The",,1
+1199,"Prince, The",Machiavelli,1
+1200,Eyeless in Gaza,Huxley Aldous,1
+1201,Tales of Beedle the Bard,Rowling J K,1
+1202,Girl with the Dragon Tattoo,Larsson Steig,1
+1203,Girl who kicked the Hornet's Nest,Larsson Steig,1
+1204,Girl who played with Fire,Larsson Steig,1
+1205,Batman Handbook,,1
+1206,Murphy's Law,,1
+1207,Structure and Randomness,Tao Terence,1
+1208,Image Processing with MATLAB,Eddins Steve,1
+1209,Animal Farm,Orwell George,1
+1210,"Idiot, The",Dostoevsky Fyodor,1
+1211,"Christmas Carol, A",Dickens Charles,1

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Jinja Practice</title>
+</head>
+<body>
+<h1>Random Number Generator</h1>
+<hr>
+<p>Generated Random Number: {{num}}</p>
+<hr>
+<h2>Age & Gender Guess Game</h2>
+<p><strong>Note:- </strong><em>Replace the 'Raman' in the url with your name to play the game.</em></p>
+<a href="{{ url_for('guess', name='Raman') }}">Click Here To Play</a>
+<hr>
+</body>
+<footer>
+    <p>COPYRIGHT {{footer[0]}}. Built by <em><strong>{{footer[1]}}</strong></em></p>
+</footer>
+</html>

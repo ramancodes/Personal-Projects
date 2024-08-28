@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <title>Get Company Websites</title>
+    <body>
+        <H1>Get Updated Company Data</H1>
+        {% if msg[0]==200 %}
+        <p>Your file is ready to download</p>
+        <p>Download Your Updated file</p>
+        <p><a href="{{msg[1]}}">Download</a></p>
+        {% else %}
+        <p>{{msg[1]}}</p>
+        {% endif %}
+        <hr>
+        <p><a href="{{url_for('home')}}">Go to Home</a></p>
+        <hr>
+        <p>Developed By Raman @2024</p>
+    </body>
+</html>

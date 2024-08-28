@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Raman Kumar Manjhi - Portfolio</title>
+  <link rel="stylesheet" href="./style.css" />
+  <script src="./script.js"></script>
+</head>
+
+<body>
+  <!-- Navigation Bar -->
+  <nav>
+    <div id="home">
+      <div class="profile_name">
+        Raman Kumar Manjhi
+        <div class="contact_info">
+          <img src="html_finalprojimages/envelope.png" alt="https://icons8.com/icon/124377/circled-envelope" />
+          mrrkmanjhi@gmail.com
+        </div>
+        <div style="clear:both;"></div>
+        <div class="contact_info">
+          <img src="html_finalprojimages/phone.png" alt="https://icons8.com/icon/124377/circled-envelope" />
+          +916204239638
+
+        </div>
+      </div>
+      <div class="topdiv">
+        <a class="topmenu" href="#about-me">About Me</a>
+        <!-- Add the links for Skills, Projects and Recommendation here -->
+        <a class="topmenu" href="#skills">Skills</a>
+        <a class="topmenu" href="#projects">Projects</a>
+        <a class="topmenu" href="#recommendations">Recommendations</a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- About Me -->
+  <section id="about-me" class="container">
+    <div>
+      <img src="html_finalprojimages/mypic.png" class="profile_image" />
+    </div>
+
+    <div>
+      <h1>
+        Hi, I'm Raman Kumar Manjhi! <img src="html_finalprojimages/waving-hand.png" width="60px" />
+      </h1>
+      <p>
+        I am a full stack developer in both application and presentation layers.
+        Highly motivated and detail-oriented fresher with a strong foundation in computer science and programming.
+        Skilled in Python, Django, HTML, CSS, JavaScript, and database management, with project experience using these languages. 
+        Excited to contribute my skills and knowledge to a dynamic team in a challenging environment.
+      </p>
+    </div>
+  </section>
+
+  <!-- Skills -->
+  <section id="skills">
+    <h2>Skills</h2>
+    <div style="clear:both;"></div>
+
+    <div class="all_skills">
+      <div class="skill">
+        <img src="html_finalprojimages/html5.png" />
+        <h6>HTML</h6>
+        <p>1 year experience</p>
+      </div>
+
+      <div class="skill">
+        <img src="html_finalprojimages/CSS3.png" />
+        <h6>CSS</h6>
+        <p>1 year experience</p>
+      </div>
+
+      <div class="skill">
+        <img src="html_finalprojimages/js.jpeg" />
+        <h6>JavaScript</h6>
+        <p>1 year experience</p>
+      </div>
+
+      <!-- Add more skills here -->
+      <div class="skill">
+        <img src="html_finalprojimages/python.png" />
+        <h6>Python</h6>
+        <p>2 year experience</p>
+      </div>
+
+      <div class="skill">
+        <img src="html_finalprojimages/django.png" />
+        <h6>Django</h6>
+        <p>1 year experience</p>
+      </div>
+
+      <div class="skill">
+        <img src="html_finalprojimages/sql.png" />
+        <h6>SQL</h6>
+        <p>3 year experience</p>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- Projects -->
+  <section class="projects" id="projects">
+    <h2>
+      Projects
+    </h2>
+    <div style="clear:both;"></div>
+
+    <div id="projects-container" class="projects-container">
+      <div class="project-card">
+        <h3> Trip Amount Prediction</h3>
+        <ul>
+          <li>Applied ETL process using Python on 3 datasets: Road Distance Dataset, Flight Fares Dataset, and Train Fare Dataset.</li>
+          <li>Trained machine learning models with an accuracy score of 94% to predict trip cost based on factors like destination, transport type, travel duration, etc.</li>
+          <li>Created a user-friendly frontend using HTML, CSS, JavaScript and Python Flask Framework for the connectivity</li>
+        </ul>
+      </div>
+      <hr>
+      <div class="project-card">
+        <h3>Toxic Sentiment Analyzer</h3>
+        <ul>
+          <li>Developed and deployed a sentiment analyzer for the comment and reviews section of an eCommerce platform.</li>
+        </ul>
+      </div>
+      <hr>
+      <div class="project-card">
+        <h3> Job Application Management</h3>
+        <ul>
+          <li> Developed a comprehensive Job Application System integrating 3 key user roles: Client, Employer, and Admin.</li>
+          <li>Python Tkinter for the user-friendly frontend interface and MySQL for robust backend database management.</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+  <div style="clear:both;"></div>
+
+  <!-- Recommendations -->
+  <section id="recommendations">
+    <h2>Recommendations</h2>
+    <div style="clear:both;"></div>
+    <div class="all_recommendations" id="all_recommendations">
+      <div class="recommendation">
+        <span>&#8220;</span>
+        Raman is a very quick learner and quickly grasps key concepts of Web development.
+        He got a great attitude & he is an excellent team player.
+        He has a curious mind and asks the right question.
+        He takes initiative within a team and has potentials to lead the team.
+        <span>&#8221;</span>
+      </div>
+      <div class="recommendation">
+        <span>&#8220;</span>
+        Working with Raman has been an awesome experience.
+        He is highly knowledgable and always goes the extra step to make sure everything is right.
+        For any future projects that need his expertise I would definitely want to work with him again.
+        <span>&#8221;</span>
+      </div>
+      <div class="recommendation">
+        <span>&#8220;</span>
+        I had worked along with raman during the initial phase of our venture which needed Web development.
+        He is a committed resource who has in depth knowledge about the domain.
+        He will be an asset for any organisation!
+        <span>&#8221;</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- Recommendation Form -->
+  <section id="contact">
+    <div class="flex_center">
+      <fieldset>
+        <legend class="introduction">Leave a Recommendation</legend>
+        <input type="text" placeholder="Name (Optional)"> <br />
+        <textarea id="new_recommendation" cols="500" rows="10" placeholder="Message"></textarea>
+        <div class="flex_center">
+          <button id="recommend_btn" onclick="addRecommendation()">Submit</button>
+        </div>
+      </fieldset>
+    </div>
+  </section>
+
+  <div class="iconbutton">
+    <a href="#home">
+      <!--Add the code here for the logo to appear and the icon to be actionable-->
+      <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="white" width="63px">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M15 11.25l-3-3m0 0l-3 3m3-3v7.5M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+      </svg>
+    </a>
+  </div>
+
+  <div class="popup" id="popup" class="flex_center">
+    <img src="html_finalprojimages/checkmark--outline.svg" />
+    <h3><!-- Add appropriate text here-->Thanks For Leaving a Recommendation.</h3>
+    <button onclick="showPopup(false)">Ok</button>
+  </div>
+</body>
+
+</html>

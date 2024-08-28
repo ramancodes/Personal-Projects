@@ -22,5 +22,3 @@ public class Array {
 
     }
 }
-
-//https://glpat-dpC7VAcH5NEzVpEZxVuu@gitlab.com/ramancodes/firstproject.git
